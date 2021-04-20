@@ -1,0 +1,17 @@
+/* HEADER */
+.App header {
+  text-align: center;
+  font-size: 37px;
+  margin: 10px;
+}
+/* MAIN */
+.App main {
+    text-align: center;
+    margin: 20px;
+  }
+/* FOOTER */
+.App footer {
+    text-align: center;
+    font-size: 14px;
+    margin: 10px;
+}
