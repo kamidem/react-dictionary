@@ -1,0 +1,19 @@
+div.meaning-block {
+  margin: 10px 0;
+}
+
+div.meaning-block h4 {
+  margin: 5px 0;
+}
+
+div.meaning-block div.meaning-each {
+  margin: 10px 0;
+}
+
+div.meaning-block p {
+  margin: 5px 0;
+}
+
+div.meaning-block p em {
+  font-size: 15px;
+}

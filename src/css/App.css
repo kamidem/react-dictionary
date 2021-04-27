@@ -1,17 +1,21 @@
+div.App {
+  width: 1200px;
+  margin-left: calc((100% - 1200px) / 2);
+}
 /* HEADER */
 .App header {
   text-align: center;
   font-size: 37px;
-  margin: 10px;
+  margin: 10px 0;
 }
 /* MAIN */
 .App main {
     text-align: center;
-    margin: 20px;
+    /* margin: 20px 0; */
   }
 /* FOOTER */
 .App footer {
     text-align: center;
     font-size: 14px;
-    margin: 10px;
+    margin: 10px 0;
 }

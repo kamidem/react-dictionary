@@ -1,0 +1,10 @@
+ul {
+  list-style-type: none; 
+  margin: 10px 0 30px;
+  margin-left: calc((100% - 510px) / 2);
+  display: grid;
+  grid-template-columns: 170px 170px 170px;
+}
+/* li {
+
+} */
