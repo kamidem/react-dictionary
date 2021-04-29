@@ -4,17 +4,19 @@ import '../css/Meaning.css';
 
 export default function Meaning(props) {
 
+
+
   return <section className='meaning-block'>
     <h4>{props.meaning.partOfSpeech}</h4>
     {props.meaning.definitions.map(function (definition, index) {
       return <div className='meaning-each' key={index}>
         <p>
-          {definition.definition}
+          <span>✦ {definition.definition}</span>
           <br />
-          <em>{definition.example}</em>
+          {definition.example}
         </p>
         <Synonyms synonyms={definition.synonyms} />
       </div>
     })}
-  </section>
+  </section >
 }

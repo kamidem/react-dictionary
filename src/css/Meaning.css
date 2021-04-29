@@ -1,19 +1,22 @@
-div.meaning-block {
-  margin: 10px 0;
-}
-
-div.meaning-block h4 {
+section.meaning-block h4 {
   margin: 5px 0;
 }
 
-div.meaning-block div.meaning-each {
+section.meaning-block div.meaning-each {
   margin: 10px 0;
+  text-align: left;
 }
 
-div.meaning-block p {
+section.meaning-block p span{
   margin: 5px 0;
+  color: black;
+  font-size: 16px;
+  font-style: normal;
 }
 
-div.meaning-block p em {
+section.meaning-block p {
   font-size: 15px;
+  font-style: italic;
+  color: rgba(0, 0, 0, 0.67);
+  margin-top: 27px;
 }

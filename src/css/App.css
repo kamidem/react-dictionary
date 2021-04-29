@@ -1,6 +1,6 @@
 div.App {
-  width: 1200px;
-  margin-left: calc((100% - 1200px) / 2);
+  width: 700px;
+  margin-left: calc((100% - 700px) / 2);
 }
 /* HEADER */
 .App header {
@@ -19,3 +19,4 @@ div.App {
     font-size: 14px;
     margin: 10px 0;
 }
+

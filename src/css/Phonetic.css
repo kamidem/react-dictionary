@@ -1,9 +1,31 @@
-div.phonetic-block {
-  margin:10px 0;
+div.all-phonetics{
   display: inline-block;
 }
+div.phonetic-block {
+  margin-top: 0px;
+  display: inline-block;
+  margin: 0px 10px;
+}
 
-/* div.phonetic-block a {
+div.phonetic-block span {
+  font-size: 20px;
+  line-height: 27px;
+}
 
-} */
+div.phonetic-block a {
+  font-size: 15px;
+  border-radius: 15px;
+  margin-left: 7px;
+  line-height: 30px;
+  color: darkslategray;
+  text-decoration: none;
+  padding: 4px 10px 5px;
+  background-color:rgba(226, 188, 183, 0.4);
+  box-shadow: 0px 0px 5px rgba(78, 11, 11, 0.2);
+  border: 1px solid rgb(226, 188, 183);
+  transition: 300ms ease;
+}
+div.phonetic-block a:hover{
+  box-shadow: none;
+}
 
