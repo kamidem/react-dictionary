@@ -5,8 +5,10 @@ div.App {
 /* HEADER */
 .App header {
   text-align: center;
-  font-size: 37px;
-  margin: 10px 0;
+  font-size: 45px;
+  margin: 10px 0 5px;
+  color: #f6e6e4;
+  text-shadow: 0 0 10px rgba(255,255,255,0.5);
 }
 /* MAIN */
 .App main {
@@ -18,5 +20,6 @@ div.App {
     text-align: center;
     font-size: 14px;
     margin: 10px 0;
+    color: #f6e6e4;
 }
 
