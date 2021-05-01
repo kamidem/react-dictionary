@@ -11,7 +11,11 @@ body * {
   -moz-osx-font-smoothing: grayscale;
 }
 body{
-  background-color: #e2bcb7;
+  /* background-color: #e2bcb7; */
+  background-image: url("../img/wood3.jpg");
+  background-repeat: repeat;
+  /* background-position: center; Center the image */
+  background-size:100%;
 }
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
