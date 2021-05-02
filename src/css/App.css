@@ -1,7 +1,4 @@
-div.App {
-  width: 700px;
-  margin-left: calc((100% - 700px) / 2);
-}
+
 /* HEADER */
 .App header {
   text-align: center;
