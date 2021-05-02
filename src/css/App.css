@@ -5,7 +5,8 @@
   font-size: 45px;
   margin: 10px 0 5px;
   color: #f6e6e4;
-  text-shadow: 0 0 10px rgba(255,255,255,0.5);
+  font-weight: 500;
+  text-shadow: 0 0 10px rgba(255,255,255,0.3);
 }
 /* MAIN */
 .App main {
