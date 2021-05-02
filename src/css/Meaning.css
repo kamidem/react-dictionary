@@ -7,23 +7,18 @@ section.meaning-block div.meaning-each {
   text-align: left;
 }
 
+section.meaning-block p {
+  font-size: 15px;
+  font-style: italic;
+  color: rgba(0, 0, 0, 0.67);
+  margin-left: 20px;
+}
+
 section.meaning-block p span{
   margin: 5px 0;
   color: black;
   font-size: 16px;
   font-style: normal;
-
-}
-
-section.meaning-block p {
-  font-size: 15px;
-  font-style: italic;
-  color: rgba(0, 0, 0, 0.67);
-  margin-top: 27px;
-}
-section.meaning-block strong {
-  color: #212529;
-  font-size: 15px;
-  font-style: normal;
-  font-weight: 600;
+  position: relative;
+  left: -20px;
 }

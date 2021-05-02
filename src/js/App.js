@@ -1,6 +1,7 @@
 import React from 'react';
 import Dictionary from './Dictionary.js'
 import '../css/App.css';
+import '../css/layout.css';
 
 export default function App() {
   return (

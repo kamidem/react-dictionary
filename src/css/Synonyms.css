@@ -3,6 +3,9 @@ ul {
   font-size: 15px;
   margin: 2px 0 5px;
   font-weight: 600;
+  margin-top: 2px;
+  margin-left: 20px;
+  display: inline-block;
 }
 li {
   display: inline-block;
